@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrimedSoftAutomatedTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6dbbaa9e5eec3f4d43db77372a9680bebe1fdd1")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrimedSoftAutomatedTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrimedSoftAutomatedTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
