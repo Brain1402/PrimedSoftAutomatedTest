@@ -1,0 +1,5 @@
+C:\PrimedSoftAutomatedTestProject\PrimedSoftAutomatedTest\obj\Debug\net6.0\PrimedSoftAutomatedTest(.csproj.AssemblyReference.cache
+C:\PrimedSoftAutomatedTestProject\PrimedSoftAutomatedTest\obj\Debug\net6.0\PrimedSoftAutomatedTest(.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrimedSoftAutomatedTestProject\PrimedSoftAutomatedTest\obj\Debug\net6.0\PrimedSoftAutomatedTest(.AssemblyInfoInputs.cache
+C:\PrimedSoftAutomatedTestProject\PrimedSoftAutomatedTest\obj\Debug\net6.0\PrimedSoftAutomatedTest(.AssemblyInfo.cs
+C:\PrimedSoftAutomatedTestProject\PrimedSoftAutomatedTest\obj\Debug\net6.0\PrimedSoftAutomatedTest(.csproj.CoreCompileInputs.cache
