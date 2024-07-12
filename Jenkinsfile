@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         // Define your environment variables if needed
-        // e.g. PATH = "${env.PATH}:C:\\path\\to\\mstest"
+         e.g. PATH = "${env.PATH}:C:\\path\\to\\mstest"
     }
 
     stages {
