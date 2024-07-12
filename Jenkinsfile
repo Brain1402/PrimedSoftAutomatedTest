@@ -1,9 +1,9 @@
 pipeline {
     agent any
 
-    environment {
-        // Define your environment variables if needed
-         e.g. PATH = "${env.PATH}:C:\\path\\to\\mstest"
+    tools {
+        // Define the .NET SDK installation name, which must be configured in jenkins
+        dotnet 'dotnet-sdk-8.0'
     }
 
     stages {
